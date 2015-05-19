@@ -1,0 +1,6 @@
+<html>
+	<body>
+	
+		<%= new String("Hola Ramis!") %>
+	</body>
+</html>
