@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<%= new String("Hola Eclipse!") %>
+		<%= new String("Hola Eclipse, EXAMEN!") %>
 	</body>
 </html>
